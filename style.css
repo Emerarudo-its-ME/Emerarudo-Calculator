@@ -13,7 +13,6 @@ h1{
 	text-align: left; /*リストの中身は左寄せ*/
 	display: inline-block;/*寄せ方調整*/
 	margin: 0 auto;/*全体を真ん中に配置する*/
-	padding: 0;
 	color: #666;
 	
 }
