@@ -40,3 +40,8 @@ button:hover{
 	background-color: #9e6969;
 	transform: translateY(-2px);
 }
+
+input{
+	border: none;
+	border-radius: 8px;
+}
