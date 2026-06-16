@@ -32,7 +32,7 @@ button{
 	color: white;
 	border: none;
 	border-radius: 8px;
-	cursor: url('クローバー.png'), pointer;
+	cursor: url(''), pointer;
 	transition: 0.3s;	
 }
 
