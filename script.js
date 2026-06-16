@@ -35,7 +35,7 @@ function Calculator(){
 			ans=num1/num2;
 		}
 		//計算結果表示
-		const resultText=num1+" "+symbol+" "+num2+" "+ "="+ans;
+		const resultText=num1+" "+symbol+" "+num2+" "+"= "+ans;
 		document.getElementById('result').innerText=resultText;
 		//履歴を追加
 		const historyList=document.getElementById('history');
