@@ -4,7 +4,7 @@
 body{
 	background-color: #E8D6D7;
 	text-align: center;
-	font-size: 1.25em;
+	font-size: 200px;
 	padding: 50px;
 	font-family: 'Sacramento', 'Kiwi Maru', cursive;
 	color: #444;
@@ -22,16 +22,16 @@ body{
     max-width: 600px; /* ただし最大でも600pxまでにする */
     height: auto;     /* 縦横比を保って自動調整 */
     display: block;   /* ブロック要素にして扱いやすくする */
-    margin: 0 auto 20px; /* 左右中央寄せ ＋ 下に20pxの隙間 */
+    margin: 0 auto 20px 0; /* 左右中央寄せ ＋ 下に20pxの隙間 */
 }
 
 h1{
-	font-size: 2em;
+	font-size: 40px;
 }
 
 #history{
 	text-align: left; /*リストの中身は左寄せ*/
-	display: inline-block;/*寄せ方調整*/
+	display: flex;/*寄せ方調整*/
 	margin: 0 auto;/*全体を真ん中に配置する*/
 	list-style-type: none;
 	color: #666;
