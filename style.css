@@ -42,6 +42,7 @@ h1{
 }
 
 button{
+	size: 30px
 	background-color: #b47c7c;
 	color: white;
 	border: none;
