@@ -60,7 +60,7 @@ button:hover{
 button:action{
 	transform: trancelateY(2px);
 	box-shadow: none;
-	
+	background-color: #9e6969;
 }
 
 input{
